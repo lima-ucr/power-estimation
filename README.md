@@ -49,7 +49,7 @@ El proceso de instalación es más complejo, se sugiera buscar ayuda en la Web, 
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/.....
+    git clone https://github.com/lima-ucr/power-estimation
     ```
 
 2. Navega al directorio `src`:
